@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "lane_msgs__py",
+		"source" : "/home/mahitha/ros2_lane_detection_ws/build/lane_msgs/lane_msgs__py"
+	}
+}

@@ -1,0 +1,36 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from lane_msgs/msg/LaneInfo.msg
+// generated code does not contain a copyright notice
+
+#include "builtin_interfaces/msg/Time.idl"
+#include "geometry_msgs/msg/Polygon.idl"
+
+module lane_msgs {
+  module msg {
+    @verbatim (language="comment", text=
+      "LaneInfo.msg")
+    struct LaneInfo {
+      @verbatim (language="comment", text=
+        "Boundaries")
+      geometry_msgs::msg::Polygon left_lane;
+
+      geometry_msgs::msg::Polygon right_lane;
+
+      geometry_msgs::msg::Polygon center_line;
+
+      @verbatim (language="comment", text=
+        "Attributes")
+      float lane_width;
+
+      string lane_type;
+
+      float lane_angle;
+
+      float curvature_radius;
+
+      @verbatim (language="comment", text=
+        "Optional timestamp")
+      builtin_interfaces::msg::Time stamp;
+    };
+  };
+};

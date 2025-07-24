@@ -1,0 +1,35 @@
+running egg_info
+creating ../../build/lane_detection_all/lane_detection_all.egg-info
+writing ../../build/lane_detection_all/lane_detection_all.egg-info/PKG-INFO
+writing dependency_links to ../../build/lane_detection_all/lane_detection_all.egg-info/dependency_links.txt
+writing entry points to ../../build/lane_detection_all/lane_detection_all.egg-info/entry_points.txt
+writing requirements to ../../build/lane_detection_all/lane_detection_all.egg-info/requires.txt
+writing top-level names to ../../build/lane_detection_all/lane_detection_all.egg-info/top_level.txt
+writing manifest file '../../build/lane_detection_all/lane_detection_all.egg-info/SOURCES.txt'
+reading manifest file '../../build/lane_detection_all/lane_detection_all.egg-info/SOURCES.txt'
+writing manifest file '../../build/lane_detection_all/lane_detection_all.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/mahitha/ros2_lane_detection_ws/build/lane_detection_all/build
+creating /home/mahitha/ros2_lane_detection_ws/build/lane_detection_all/build/lib
+creating /home/mahitha/ros2_lane_detection_ws/build/lane_detection_all/build/lib/lane_detection_all
+copying lane_detection_all/detection_node.py -> /home/mahitha/ros2_lane_detection_ws/build/lane_detection_all/build/lib/lane_detection_all
+copying lane_detection_all/__init__.py -> /home/mahitha/ros2_lane_detection_ws/build/lane_detection_all/build/lib/lane_detection_all
+running install
+running install_lib
+creating /home/mahitha/ros2_lane_detection_ws/install/lane_detection_all/lib/python3.10/site-packages/lane_detection_all
+copying /home/mahitha/ros2_lane_detection_ws/build/lane_detection_all/build/lib/lane_detection_all/detection_node.py -> /home/mahitha/ros2_lane_detection_ws/install/lane_detection_all/lib/python3.10/site-packages/lane_detection_all
+copying /home/mahitha/ros2_lane_detection_ws/build/lane_detection_all/build/lib/lane_detection_all/__init__.py -> /home/mahitha/ros2_lane_detection_ws/install/lane_detection_all/lib/python3.10/site-packages/lane_detection_all
+byte-compiling /home/mahitha/ros2_lane_detection_ws/install/lane_detection_all/lib/python3.10/site-packages/lane_detection_all/detection_node.py to detection_node.cpython-310.pyc
+byte-compiling /home/mahitha/ros2_lane_detection_ws/install/lane_detection_all/lib/python3.10/site-packages/lane_detection_all/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/mahitha/ros2_lane_detection_ws/install/lane_detection_all/share/ament_index
+creating /home/mahitha/ros2_lane_detection_ws/install/lane_detection_all/share/ament_index/resource_index
+creating /home/mahitha/ros2_lane_detection_ws/install/lane_detection_all/share/ament_index/resource_index/packages
+copying resource/lane_detection_all -> /home/mahitha/ros2_lane_detection_ws/install/lane_detection_all/share/ament_index/resource_index/packages
+copying package.xml -> /home/mahitha/ros2_lane_detection_ws/install/lane_detection_all/share/lane_detection_all
+running install_egg_info
+Copying ../../build/lane_detection_all/lane_detection_all.egg-info to /home/mahitha/ros2_lane_detection_ws/install/lane_detection_all/lib/python3.10/site-packages/lane_detection_all-0.0.0-py3.10.egg-info
+running install_scripts
+Installing detection_node script to /home/mahitha/ros2_lane_detection_ws/install/lane_detection_all/lib/lane_detection_all
+writing list of installed files to '/home/mahitha/ros2_lane_detection_ws/build/lane_detection_all/install.log'

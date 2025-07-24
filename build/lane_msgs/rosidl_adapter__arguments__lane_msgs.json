@@ -1,0 +1,6 @@
+{
+  "package_name": "lane_msgs",
+  "non_idl_tuples": [
+    "/home/mahitha/ros2_lane_detection_ws/src/lane_msgs:msg/LaneInfo.msg"
+  ]
+}
